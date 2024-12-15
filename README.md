@@ -27,3 +27,13 @@ This is in blue text. (above) made for nerfs
 This is in pink text. (above) made for buffs
  
 -----------------------------------------------
+
+
+
+ALL TOGETHER IN ORDER: 
+-----------------------------------------------
+[2;37m[1;31m[Removed -][0m[2;37m Removed ???
+[2;37m[1;32m[Added +][0m[2;37m Added ???
+[2;37m[1;32m[Fixed +-][0m[2;37m Fixed ???
+[2;37m[1;34m[Nerfed -/][0m[2;37m Nerfed ???
+[2;37m[1;35m[Buffed +/][0m[2;37m Buffed ???
