@@ -28,6 +28,11 @@ This is in pink text. (above) made for buffs
  
 -----------------------------------------------
 
+[2;37m[1;38m[Message #][0m[2;37m This is just a test.
+
+This is in white text. (above) made for messages or disclaimers.
+
+
 
 
 ALL TOGETHER IN ORDER: 
