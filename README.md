@@ -10,7 +10,7 @@ This is in green text. (above) made for additions
  
 -----------------------------------------------
  
-[2;37m[1;32m[Fixed +-][0m[2;37m Added ???
+[2;37m[1;32m[Fixed +-][0m[2;37m Fixed ???
  
 This is in yellow text. (above) made for fixes
  
